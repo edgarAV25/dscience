@@ -1,3 +1,3 @@
 # DSCIENCE
 
-its a markdown file in this repository
+in this repository you can find my Data Science notebooks
