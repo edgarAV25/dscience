@@ -1,3 +1,3 @@
 # DSCIENCE
 
-in this repository you can find my Data Science notebooks
+In this repository you can find my Data Science notebooks
